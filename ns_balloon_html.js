@@ -8,7 +8,6 @@ function init() {
             searchControlProvider: 'yandex#search'
         });
     myMap.geoObjects
-        .add(myPolygon)
         .add(new ymaps.Placemark([53.30704688152192,50.28914832598631], {
             // Зададим содержимое заголовка балуна.
             balloonContentHeader: '<a href = "http://finstroy.tilda.ws/object" target="_blank">Офис отдела продаж и аренды<br>ЖК "Новая Самара"</a><br>' +
@@ -35,6 +34,5 @@ function init() {
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
                 balloonOffset: [0, -0]
-            }))
-;
+            }));
 }
