@@ -10,14 +10,14 @@ function init() {
     myMap.geoObjects
         .add(new ymaps.Placemark([53.31005907115121,50.28758199999998], {
             // Зададим содержимое заголовка балуна.
-            balloonContentHeader: '<a href = "http://finstroy.tilda.ws/object" target="_blank">ЖК «Новая Самара»</a><br>' +
+            balloonContentHeader: '<a href = "http://finstroy.tilda.ws/object" target="_blank">ЖК «Новая Самара»г. Самара, пос. Мехзавод, Квартал 1, Дом 33</a><br>' +
             '<span class="description">г. Самара, пос. Мехзавод, Квартал 1, Дом 33</span>',
             // Зададим содержимое основной части балуна.
-            balloonContentBody: '<a href = "#popup:zvonok" target="_blank" style="font-size: 14px">➥ <u>Смотреть подробнее</u></a></b>',
+            balloonContentBody: '<a href = "http://finstroy.tilda.ws/object" target="_blank"><u>Смотреть подробнее</u></a>',
             // Зададим содержимое нижней части балуна.
-            balloonContentFooter: 'УК «Финстрой»',
+            balloonContentFooter: '<br>ЖК «Новая Самара»<br>УК «Финстрой»',
             // Зададим содержимое всплывающей подсказки.
-            hintContent: 'г. Самара, пос. Мехзавод, Квартал 1, Дом 33'
+            hintContent: 'Дом 33'
             }, {
                 // Опции.
                 // Необходимо указать данный тип макета.
@@ -25,7 +25,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
                 // Размеры метки.
-                iconImageSize: [40, 40],
+                iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [0, 0],
