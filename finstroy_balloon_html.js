@@ -27,7 +27,7 @@ function init() {
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [0, 0],
+                iconImageOffset: [10, 0],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
