@@ -10,8 +10,7 @@ function init() {
     myMap.geoObjects
         .add(new ymaps.Placemark([53.31005907115121,50.28758199999998], {
             // Зададим содержимое заголовка балуна.
-            balloonContentHeader: '<a href = "http://finstroy.tilda.ws/object" target="_blank">ЖК «Новая Самара»г. Самара, пос. Мехзавод, Квартал 1, Дом 33</a><br>' +
-            '<span class="description">г. Самара, пос. Мехзавод, Квартал 1, Дом 33</span>',
+            balloonContentHeader: '<a href = "http://finstroy.tilda.ws/object" target="_blank">г. Самара, пос. Мехзавод, Квартал 1, Дом 33</a><br>'
             // Зададим содержимое основной части балуна.
             balloonContentBody: '<a href = "http://finstroy.tilda.ws/object" target="_blank"><u>Смотреть подробнее</u></a>',
             // Зададим содержимое нижней части балуна.
