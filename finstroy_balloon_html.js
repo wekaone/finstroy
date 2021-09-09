@@ -12,9 +12,9 @@ function init() {
             // Зададим содержимое заголовка балуна.
             balloonContentHeader: '<a href = "http://finstroy.tilda.ws/object" target="_blank">г. Самара, пос. Мехзавод, Квартал 1, Дом 33</a><br>',
             // Зададим содержимое основной части балуна.
-            balloonContentBody: '<a href = "http://finstroy.tilda.ws/object" target="_blank"><u>Смотреть подробнее</u></a>',
+            balloonContentBody: '<br><a href = "http://finstroy.tilda.ws/object" target="_blank"><u>Смотреть подробнее</u></a>',
             // Зададим содержимое нижней части балуна.
-            balloonContentFooter: '<br>ЖК «Новая Самара»<br>УК «Финстрой»',
+            balloonContentFooter: 'ЖК «Новая Самара»',
             // Зададим содержимое всплывающей подсказки.
             hintContent: 'Дом 33'
             }, {
