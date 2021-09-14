@@ -24,7 +24,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -49,7 +49,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -74,7 +74,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -99,7 +99,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -124,7 +124,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -149,7 +149,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -174,7 +174,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -199,7 +199,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -224,7 +224,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
@@ -249,7 +249,7 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [30, 30],
+                iconImageSize: [60, 60],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
                 iconImageOffset: [-10, -10],
