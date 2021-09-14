@@ -24,10 +24,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -49,10 +49,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -74,10 +74,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -99,10 +99,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -124,10 +124,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -149,10 +149,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -174,10 +174,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -199,10 +199,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -224,10 +224,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
@@ -249,10 +249,10 @@ function init() {
                 // Своё изображение иконки метки.
                 iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
-                iconImageSize: [60, 60],
+                iconImageSize: [45, 45],
                 // Смещение левого верхнего угла иконки относительно
                 // её "ножки" (точки привязки).
-                iconImageOffset: [-10, -10],
+                iconImageOffset: [-20, -20],
                 hideIconOnBalloonOpen: false,
                 // Вкл./Откл кнопку закрытия балуна.
                 balloonCloseButton: true,
