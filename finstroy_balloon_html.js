@@ -22,7 +22,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -47,7 +47,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -72,7 +72,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -97,7 +97,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -122,7 +122,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -147,7 +147,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -172,7 +172,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -197,7 +197,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -222,7 +222,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
@@ -247,7 +247,7 @@ function init() {
                 // Необходимо указать данный тип макета.
                 iconLayout: 'default#image',
                 // Своё изображение иконки метки.
-                iconImageHref: 'https://static.tildacdn.com/tild3661-3365-4466-b332-383331646438/ns_op_oapng.png',
+                iconImageHref: 'https://static.tildacdn.com/tild3331-6533-4632-a432-666666386136/map_icon.png',
                 // Размеры метки.
                 iconImageSize: [30, 30],
                 // Смещение левого верхнего угла иконки относительно
