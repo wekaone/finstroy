@@ -235,9 +235,9 @@ function init() {
             }))
         .add(new ymaps.Placemark([53.19888807121248,50.14558500000001], {
             // Зададим содержимое заголовка балуна.
-            balloonContentHeader: '<a href = "/h24" target="_blank">улица Дачная, Дом 24</a><br>',
+            balloonContentHeader: '<a href = "/hd24" target="_blank">улица Дачная, Дом 24</a><br>',
             // Зададим содержимое основной части балуна.
-            balloonContentBody: '<br><a href = "/h24" target="_blank"><u>Смотреть подробнее</u></a>',
+            balloonContentBody: '<br><a href = "/hd24" target="_blank"><u>Смотреть подробнее</u></a>',
             // Зададим содержимое нижней части балуна.
             balloonContentFooter: '<br>ЖК «Дачная»',
             // Зададим содержимое всплывающей подсказки.
